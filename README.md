@@ -1,4 +1,5 @@
 🛡️ Android Ransomware Detection by RGB Image Generation and Classification
+<br>
 📘 Project Description
 This project presents an end-to-end system for detecting ransomware in Android applications (.apk files) using RGB image generation and deep learning. It includes:
 
