@@ -18,7 +18,7 @@ It includes:
     git clone https://github.com/SaankhyaSamanta/Ransom-Check
     cd Ransom-Check
     ```
-2. Ensure **Python 3.7** or higher is installed.
+2. Ensure **Python 3.10** or higher is installed.
 
 ---
 
