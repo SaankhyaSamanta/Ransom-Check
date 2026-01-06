@@ -15,7 +15,7 @@ It includes:
 ### Setup
 1. Clone the repository:
     ```bash
-    git clone https://github.com//Ransom-Check
+    git clone https://github.com/SaankhyaSamanta/Ransom-Check
     cd Ransom-Check
     ```
 2. Ensure **Python 3.7** or higher is installed.
