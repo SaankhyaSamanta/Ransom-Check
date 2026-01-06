@@ -23,7 +23,7 @@ It includes:
 ---
 
 ### Backend 
-1. Navigate to the backend directory:
+1. Navigate to the backend directory.
 
 2. Install required Python dependencies:
     ```bash
@@ -39,9 +39,9 @@ It includes:
 ---
 
 ### Frontend
-1. Navigate to the frontend directory:
+1. Navigate to the frontend directory.
 
-2. Open the `index.html` file in web browser (e.g., Chrome, Firefox):  
+2. Open the `index.html` file in web browser (e.g., Chrome, Firefox).
    
 3. Upload one or more `.apk` files using the interface and view detection results with **confidence scores**.
 
