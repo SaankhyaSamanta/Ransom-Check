@@ -1,22 +1,21 @@
-flask
-flask-cors
-gunicorn
-werkzeug
+flask==3.0.0
+flask-cors==5.0.1
+werkzeug==3.0.1
 
 numpy==1.20.0
-pillow
-imageio
-scikit-image
-matplotlib
-scikit-learn
+pillow==10.1.0
+imageio==2.37.0
+scikit-image==0.25.2
+matplotlib==3.8.0
+scikit-learn==1.3.2
 
-tensorflow
-keras
+tensorflow==2.15.0
+keras==2.15.0
 
-androguard
-capstone
+androguard==4.1.3
+capston==5.0.6
 
-beautifulsoup4
-requests
+beautifulsoup4==0.0.2
+requests==2.31.0
 
-python-tlsh
+python-tlsh==4.7.2
