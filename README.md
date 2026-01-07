@@ -23,25 +23,23 @@ It includes:
 ---
 
 ### Backend 
-1. Navigate to the backend directory.
 
-2. Install required Python dependencies:
+1. Install required Python dependencies:
     ```bash
     pip install -r requirements.txt
     ```
-3. Launch the Flask backend server:
+2. Launch the Flask backend server:
     ```bash
     python app.py
     ```
-4. The server will start at:  
+3. The server will start at:  
    `http://127.0.0.1:5000/`
 
 ---
 
 ### Frontend
-1. Navigate to the frontend directory.
 
-2. Open the `index.html` file in web browser (e.g., Chrome, Firefox).
+1. Open the `index.html` file in web browser (e.g., Chrome, Firefox).
    
-3. Upload one or more `.apk` files using the interface and view detection results with **confidence scores**.
+2. Upload one or more `.apk` files using the interface and view detection results with **confidence scores**.
 
